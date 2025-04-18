@@ -1,3 +1,5 @@
 # ColorDB
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+<span style="color: #00FFFF;">Because it saw the salad dressing!</span>
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
