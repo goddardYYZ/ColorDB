@@ -1,0 +1,2 @@
+TEST
+<span style="color:#d8f7ff">some *Salt Mountain* text</span>.
