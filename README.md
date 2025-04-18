@@ -26,6 +26,7 @@
 - ![#f6e3b4](https://placehold.co/15x15/f6e3b4/f6e3b4.png) `Butter Yellow` `#f6e3b4` `246, 227, 180`
 - ![#ff6f61](https://placehold.co/15x15/ff6f61/ff6f61.png) `Living Coral` `#ff6f61` `255, 111, 97`
 - ![#6b5b95](https://placehold.co/15x15/6b5b95/6b5b95.png) `Royal Purple` `#6b5b95` `107, 91, 149`
+- ![#88b04b](https://placehold.co/15x15/88b04b/88b04b.png) `Frog on a Log` `#88b04b` `136, 176, 75`
 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -80,7 +81,7 @@
 
 - ![#ff6f61](https://placehold.co/15x15/ff6f61/ff6f61.png) `Living Coral` `#ff6f61` `255, 111, 97`
 - ![#6b5b95](https://placehold.co/15x15/6b5b95/6b5b95.png) `Royal Purple` `#6b5b95` `107, 91, 149`
-- ![#88b04b](https://placehold.co/
+- ![#88b04b](https://placehold.co/15x15/88b04b/88b04b.png) `Frog on a Log` `#88b04b` `136, 176, 75`
 ::contentReference[oaicite:0]{index=0}
 
 ----------------------------------------------------------------------------------------------------------------------------
